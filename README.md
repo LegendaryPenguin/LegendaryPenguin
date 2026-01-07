@@ -1,6 +1,21 @@
 # 💫 About Me:
-🛠️ I’m currently working on:<br>A cloud-native project that auto scales Kubernetes apps based on message traffic from Google Pub/Sub. I'm learning how to deploy and manage infrastructure using Terraform and Google Cloud.<br>🤝 I’m looking to collaborate on:<br>Cloud, DevOps, backend Java projects, or anything that combines automation and infrastructure.<br>🧠 I’m looking for help with:<br>Deploying scalable apps on GKE, optimizing Terraform setups, and improving my cloud architecture skills.<br>🌱 I’m currently learning:<br>Google Cloud Platform (GCP), Kubernetes, Terraform, CI/CD, and Spring Boot.<br>💬 Ask me about:<br>How I rebuilt and customized a scalable messaging system using Pub/Sub, Java, and Kubernetes.<br>⚡ Fun fact:<br>One of my projects lead to a feature on a New York Times Billboard!
+🛠️ I’m currently working on:<br>
+A DeFi oracle network that computes time-weighted average prices (TWAPs) for illiquid on-chain assets by aggregating DEX liquidity and off-chain exchange feeds. I’m learning how to design fault-tolerant oracle nodes, handle adversarial data, and push verified price updates on-chain.<br>
 
+🤝 I’m looking to collaborate on:<br>
+DeFi infrastructure, oracle networks, backend systems, or anything that sits at the intersection of finance, security, and distributed systems.<br>
+
+🧠 I’m looking for help with:<br>
+Preventing oracle manipulation, validating off-chain data sources, and optimizing on-chain update frequency without blowing up gas costs.<br>
+
+🌱 I’m currently learning:<br>
+Solidity, oracle security patterns, MEV dynamics, distributed systems, and Ethereum L2 tooling.<br>
+
+💬 Ask me about:<br>
+How I designed a price oracle that resists flash-loan attacks using TWAPs, multi-source aggregation, and on-chain verification logic.<br>
+
+⚡ Fun fact:<br>
+One of my blockchain projects led to a feature on a New York Times Billboard!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/LegendaryKrrish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischay-rawal/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nisch_rawal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisch.rawal@gmail.com) 
